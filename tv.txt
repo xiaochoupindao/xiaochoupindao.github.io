@@ -419,6 +419,7 @@ Now爆谷台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=67
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 翡翠台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=3
 亚太台,http://lp5n3vpwkc.maore.online/h1/fYv2AbobBq4dl9TAMYzhEMGt3Z/aplive200/playlist.m3u8
+中国台,https://lp5n3vpwkc.maore.online/h1/fYv2AbobBq4dl9TAMYzhEMGt3Z/cnlive900/playlist.m3u8
 明珠台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=4
 明珠台,https://s2.pub/cctv-6
 TVBJ2台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=5
